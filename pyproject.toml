@@ -1,7 +1,7 @@
 [project]
-name = "pi5ip"
+name = "ddns"
 version = "0.1.0"
-description = "Add your description here"
+description = "Update a cloudflare dns record dynamically"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
